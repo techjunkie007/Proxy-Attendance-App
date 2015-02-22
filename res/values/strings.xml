@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProxyA</string>
+     <string name="open_drawer">Drawer Opened</string>
+      <string name="close_drawer">Drawer Closed</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="items">
+        <item>Add Attendance</item>
+        <item>Edit Attendance</item>
+        <item>Edit Profile</item>
+        <item>Suggest Us</item>
+        <item>Database View</item>
+        </string-array>
+
+</resources>
